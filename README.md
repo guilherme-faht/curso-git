@@ -52,3 +52,6 @@ comando: git remote add [nome do repositório (padrão: origin)] [URL do repositór
 comando: git push [nome do repositório remoto] [Nome da branch que receberá as alterações]
 exemplo: git push origin master
 
+2.4) Clonar um repositório remoto
+comando: git clone [URL DO REPOSITÓRIO REMOTO]
+
