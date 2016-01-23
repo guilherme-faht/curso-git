@@ -19,7 +19,7 @@ Comando: git status
 1.5) Adicionar um arquivo ao repositório
 Comando: git add [nome do arquivo]
 
-1.6) Comfiguração lOCAL de usuário
+1.6) Configuração LOCAL de usuário
 Comando: git config user.name  = "Seu Nome"
          git config user.email = "seu E-Mail"
 
