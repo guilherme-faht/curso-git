@@ -1,11 +1,13 @@
-COMANDOS GIT - Windows
+#COMANDOS GIT - Windows
 _________________________________________________
 
-1) COMANDOS INICIAIS:
+##COMANDOS INICIAIS:
 
 
-1.1) Criar um diretório
+###Criar um diretório
+```
 Comando: mkdir [nome do diretório]
+```
 
 1.2) Iniciar um repositório
 Comando: git init
@@ -41,6 +43,7 @@ comando: git whatchanged -p
 
 
 2) SINCRONIZAÇÃO DE DADOS NO REPOSITÓRIO REMOTO:
+
 
 2.1) Mostrar quais repositórios remotos o repositório local tem
 comando: git remote
